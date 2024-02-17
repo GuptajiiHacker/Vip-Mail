@@ -17,8 +17,7 @@ ccl='\033[1;36m'
 wcl='\033[1;37m'
 mcl = '\033[1;94m'
 ncl='\033[0;00m'
-loginpromt=""
-       {acl} _ {ycl}                             
+loginpromt="""                        
 {acl} /\   /(_)_ __{ycl}    {ycl}/\/\   __ _(_) |{acl}
 {acl} \ \ / / | '_ \{ycl}  {ycl}/    \ / _` | | |{acl}
   {acl}\ V /| | |_) |{ycl}{ycl}/ /\/\ \ (_| | | |{acl}
