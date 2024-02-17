@@ -17,43 +17,45 @@ ccl='\033[1;36m'
 wcl='\033[1;37m'
 mcl = '\033[1;94m'
 ncl='\033[0;00m'
-loginpromt="""
-{acl} __  __V1.2{ycl}__  __    _    ___ _
-{acl}|  \/  | {ycl}|  \/  |  / \  |_ _| |
-{acl}| |\/| | {ycl}| |\/| | / _ \  | || |
-{acl}| |  | | {ycl}| |  | |/ ___ \ | || |___
-{acl}|_|  |_| {ycl}|_|  |_/_/   \_\___|_____|{ncl}
-        
-        {acl}[ {bcl}CODER {acl}] {pcl}MAO2116
-        {acl}[ {bcl}GITHUB {acl}]{pcl} MAO2116    
-        {acl}[ {bcl}THANKS TO {acl}]{pcl} ALLAH !
+loginpromt=""
+             _ {ycl}                              _ _ {acl}
+{acl} /\   /(_)_ __{ycl}    {ycl}/\/\   __ _(_) |{acl}
+{acl} \ \ / / | '_ \{ycl}  {ycl}/    \ / _` | | |{acl}
+  {acl}\ V /| | |_) |{ycl}{ycl}/ /\/\ \ (_| | | |{acl}
+   {acl}\_/ |_| .__/{ycl}{ycl}\/     \/\__,_|_|_|{acl}{ncl}
+         {acl}|_|{ycl}                                                   
+        {acl}[ {bcl}CODER {acl}] {pcl} KrishnaGupta
+        {acl}[ {bcl}GITHUB {acl}]{pcl} HackerGuptajii   
+        {acl}[ {bcl}THANKS TO {acl}]{pcl} SunchitKulkar!
         
         {acl}[{gcl} !{acl} ] {rcl}ANALYSING  DATA{acl}[{gcl} !{acl} ]{ncl}
 """.format(acl=acl,ncl=ncl,pcl=pcl,ycl=ycl,bcl=bcl,gcl=gcl,rcl=rcl)
 manuhome="""
-{acl} __  __V1.2{ycl}_  __    _    ___ _
-{acl}|  \/  | {ycl}|  \/  |  / \  |_ _| |
-{acl}| |\/| | {ycl}| |\/| | / _ \  | || |
-{acl}| |  | | {ycl}| |  | |/ ___ \ | || |___
-{acl}|_|  |_| {ycl}|_|  |_/_/   \_\___|_____|{ncl}
+             _ {ycl}                                      _ _ {acl}
+{acl} /\   /(_)_ __{ycl}    {ycl}/\/\   __ _(_) |{acl}
+{acl} \ \ / / | '_ \{ycl}  {ycl}/    \ / _` | | |{acl}
+  {acl}\ V /| | |_) |{ycl}{ycl}/ /\/\ \ (_| | | |{acl}
+   {acl}\_/ |_| .__/{ycl}{ycl}\/     \/\__,_|_|_|{acl}{ncl}
+         {acl}|_|{ycl}
         
-        {acl}[ {bcl}CODER {acl}] {pcl}MAO2116
-        {acl}[ {bcl}GITHUB {acl}]{pcl} MAO2116    
-        {acl}[ {bcl}THANKS TO {acl}]{pcl} ALLAH !
+        {acl}[ {bcl}CODER {acl}] {pcl} KrishnaGupta 
+        {acl}[ {bcl}GITHUB {acl}]{pcl} GuptajiHacker    
+        {acl}[ {bcl}THANKS TO {acl}]{pcl} SunchitKulkar!
         
         {acl}[{gcl} !{acl} ] {rcl}MANU {acl}[{gcl} !{acl} ]{ncl}
 """.format(acl=acl,ncl=ncl,pcl=pcl,ycl=ycl,bcl=bcl,gcl=gcl,rcl=rcl)
 def inboxlogo(currentemail):
   inboxlogo_="""
-{acl} __  _V1.2{ycl}__  __    _    ___ _
-{acl}|  \/  | {ycl}|  \/  |  / \  |_ _| |
-{acl}| |\/| | {ycl}| |\/| | / _ \  | || |
-{acl}| |  | | {ycl}| |  | |/ ___ \ | || |___
-{acl}|_|  |_| {ycl}|_|  |_/_/   \_\___|_____|{ncl}
+             _ {ycl}                         _ _ {acl}
+{acl} /\   /(_)_ __{ycl}    {ycl}/\/\   __ _(_) |{acl}
+{acl} \ \ / / | '_ \{ycl}  {ycl}/    \ / _` | | |{acl}
+  {acl}\ V /| | |_) |{ycl}{ycl}/ /\/\ \ (_| | | |{acl}
+   {acl}\_/ |_| .__/{ycl}{ycl}\/     \/\__,_|_|_|{acl}{ncl}
+         {acl}|_|{ycl}
         
-        {acl}[ {bcl}CODER {acl}] {pcl}MAO2116
-        {acl}[ {bcl}GITHUB {acl}]{pcl} MAO2116    
-        {acl}[ {bcl}THANKS TO {acl}]{pcl} ALLAH !
+        {acl}[ {bcl}CODER {acl}] {pcl} KrishnaGupta 
+        {acl}[ {bcl}GITHUB {acl}]{pcl} GuptajiHacker 
+        {acl}[ {bcl}THANKS TO {acl}]{pcl} SunchitKulkar!
         
 {acl}[{bcl} PRESS{gcl} CTRL+C {acl}]{ycl} TO OPEN MAIN MANU   
 
