@@ -1,9 +1,9 @@
 ##########################################################
-# DEV : MAO2116
-# Github : https://github.com/mao2116
+# DEV : KrishnaGupta 
+# Github : https://github.com/GuptajiHacker 
 # IF YOU WANNA TAKE CREADITS FOR THIS TOOL,,,LOOK YOUR SELF AGAIN AND AGAIN,,
 
-# THANKS TO ALLAH
+# THANKS TO SunchitKulkar
 # WELCOME HOME
 # 
 #####################৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳################
@@ -24,9 +24,9 @@ n='\033[0;00m'
 update(){
   echo -e "${p} A UPDATE AVAILABLE"
   sleep 0.1
-  echo -e "${m} MMAIL IS UPDATING"
+  echo -e "${m} Vip-MAIL IS UPDATING"
   sleep 1
-  xdg-open https://www.facebook.com/mao2116/
+  xdg-open https://www.instagram.com/its_vip_krishna_gupta?igsh=NmRpbzd3Y2EzaWRw
   echo -e "${b} PLEASE WAIT..." 
   cd ; 
   rm -rf mmail ; 
@@ -34,7 +34,7 @@ update(){
   apt install python3 -y ; 
   apt install git -y ; 
   pip install requests ; 
-  git clone https://github.com/mao2116/mmail
+  git clone https://github.com/GuptajiiHacker/Vip-Mail
   
 
 
@@ -45,7 +45,7 @@ update(){
   echo
   echo -e "${g}<==> NOW TYPE <==>"
   echo
-  echo -e "${b} cd ; cd mmail ; python mmail.py${n}" ;
+  echo -e "${b} cd ; cd mmail ; python Vip-Mail.py${n}" ;
   sleep 3
 
 
@@ -60,10 +60,10 @@ exit
 
 
 ##########################################################
-# DEV : MAO2116
-# Github : https://github.com/mao2116
+# DEV : KrishnaGupta 
+# Github : https://github.com/GuptajiiHacker/Vip-Mail
 # IF YOU WANNA TAKE CREADITS FOR THIS TOOL,,,LOOK YOUR SELF AGAIN AND AGAIN,,
-# THANKS TO ALLAH
+# THANKS TO SunchitKulkar
 # WELCOME HOME
-# MAO2116
+# Vip
 #####################৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳৳################
