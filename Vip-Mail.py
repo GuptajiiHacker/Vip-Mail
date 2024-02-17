@@ -300,7 +300,7 @@ def more():
   {acl}[{gcl} 3{bcl}.{acl} ]{ycl} SEE ALL EMAIL {acl}[{bcl} YOU CREATED {acl}]
   {acl}[{gcl} 4{bcl}.{acl} ]{ycl} VIEW CUREENT MAIL {acl}[ {ccl}ALL MAILS {acl}]
   {acl}[{gcl} 5{bcl}.{acl} ]{ycl} EMAILS HISTORY {acl}[ {bcl}YOU CAN LOG IN {acl}]
-  {acl}[{gcl} 6{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} MAO2116 {acl}]
+  {acl}[{gcl} 6{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} HackerGuptajii{acl}]
   {acl}[{rcl} 0{bcl}.{acl} ]{rcl} EXIT {acl}[{bcl} ×××{acl} ]
   """.format(acl=acl,bcl=bcl,gcl=gcl,ycl=ycl,rcl=rcl,ccl=ccl)
   try:
