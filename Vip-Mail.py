@@ -399,7 +399,7 @@ def main2():
     {acl}[{gcl} 2{bcl}.{acl} ]{ycl} CREAT NEW MAIL{acl} [{bcl} CREAT YOUR SELF {acl}]
     {acl}[{gcl} 3{bcl}.{acl} ]{ycl} INBOX CHECK{acl} [{bcl} ALL MAILS {acl}]
     {acl}[{gcl} 4{bcl}.{acl} ]{ycl} MORE FEATURES {acl}[ {bcl}... {acl}]
-    {acl}[{gcl} 5{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} MAO2116 {acl}]
+    {acl}[{gcl} 5{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} GuptajiHacker {acl}]
     {acl}[{rcl} 0{bcl}.{acl} ]{rcl} EXIT{acl} [{rcl} ××× {acl}]
     """.format(acl=acl,bcl=bcl,gcl=gcl,ycl=ycl,rcl=rcl,ccl=ccl)
     while True:
@@ -443,7 +443,7 @@ def main():
     {acl}[{gcl} 1{bcl}.{acl} ]{ycl} CREATE NEW MAIL{acl} [{ccl} RANDOM {acl}] 
     {acl}[{gcl} 2{bcl}.{acl} ]{ycl} CREAT NEW MAIL{acl} [{bcl} CREAT YOUR SELF {acl}]
     {acl}[{gcl} 3{bcl}.{acl} ]{ycl} MORE FEATURES {acl}[ {bcl}... {acl}]
-    {acl}[{gcl} 4{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} MAO2116 {acl}]
+    {acl}[{gcl} 4{bcl}.{acl} ]{ycl} GITHUB {acl}[{bcl} GuptajiHacker {acl}]
     {acl}[{rcl} 0{bcl}.{acl} ]{rcl} EXIT{acl} [{rcl} ××× {acl}]
     """.format(acl=acl,bcl=bcl,gcl=gcl,ycl=ycl,rcl=rcl,ccl=ccl)
     while True:
